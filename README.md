@@ -1,7 +1,7 @@
 # 🚀 Tushar Rathore
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Frontend+Developer+%7C+React+Specialist;Building+Scalable+Web+Applications;MERN+Stack+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Frontend+Developer+%7C+React+Specialist;Building+Scalable+Web+Applications;MERN+Stack+Developer" alt="Typing Animation" />
 </div>
 
 <div align="center">

@@ -20,8 +20,6 @@
 
 🚀 **Specialized in** React.js, Next.js, TypeScript, and MERN stack
 
-💼 **Currently working** at **Webanix Solutions** delivering enterprise-level solutions
-
 🎓 **B.Tech CSE** graduate with **8.9 CGPA** from Bikaner Technical University
 
 💡 **Passionate about** creating high-performance applications that enhance user experience

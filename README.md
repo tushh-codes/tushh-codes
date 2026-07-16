@@ -130,11 +130,6 @@ const tushar = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tushh-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a78bfa&icon_color=a78bfa"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushh-codes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=a78bfa"/>
-</div>
-
-<div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=tushh-codes&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
 </div>
 

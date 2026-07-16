@@ -1,266 +1,160 @@
-# 🚀 Tushar Rathore
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Frontend+Developer+%7C+React+Specialist;Building+Scalable+Web+Applications" alt="Typing Animation" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tushar%20Rathore&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=a78bfa"/>
 </div>
 
 <br/>
 
-## 🎯 About Me
+<div align="center">
 
-<img align="right" alt="Coding GIF" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-<div align="left">
-
-🔥 **Frontend Developer** with **2 years** of experience building **scalable, responsive web applications**
-
-🚀 **Specialized in** React.js, Next.js, TypeScript, and MERN stack
-
-🎓 **B.Tech CSE** graduate with **8.9 CGPA** from Bikaner Technical University
-
-💡 **Passionate about** creating high-performance applications that enhance user experience
-
-📧 **Contact:** tushar2643@gmail.com | 📱 **Phone:** +91 8619972643
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=60&lines=React+%7C+Next.js+%7C+Node.js+%7C+NestJS+%7C+TypeScript;AWS+%7C+Docker+%7C+MongoDB+%7C+Redis+%7C+RabbitMQ)](https://git.io/typing-svg)
 
 </div>
 
-<br clear="both"/>
-
----
-
-## 🛠️ Tech Arsenal
+<br/>
 
 <div align="center">
 
-### Languages & Core Technologies
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-### Styling & UI
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Tools & Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar1201)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tushh-r.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tushar2643@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/tushh_r)
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## ⚡ About Me
 
-### 🏢 HRMS Management System
+```ts
+const tushar = {
+  role        : "Full Stack Developer",
+  experience  : "2.5+ years",
+  currentWork : "Paycor Smart Sourcing — AI-powered recruiting platform",
+  team        : "Cross-functional international engineering team",
+  stack       : ["React", "Next.js", "Node.js", "NestJS", "TypeScript"],
+  cloud       : ["AWS ECS", "S3", "CloudWatch", "Docker"],
+  databases   : ["MongoDB", "MySQL", "Redis", "RabbitMQ"],
+  practices   : ["Microservices", "CI/CD", "Agile", "Code Review"],
+  location    : "Udaipur, Rajasthan 🇮🇳",
+  openTo      : "Remote opportunities worldwide 🌍",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge&logoColor=white)](http://115.241.153.220:10000/login)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-</div>
+**Frontend**
 
-<div align="left" style="margin-left: 20px;">
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
 
-**🎯 Enterprise-scale HRMS platform serving 5,000+ employees**
+**Backend**
 
-• ✅ Complete employee lifecycle management (onboarding to payroll)  
-• 📊 Advanced analytics and reporting dashboards  
-• 🔄 Automated approval workflows reducing HR workload by 50%
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-</div>
+**Cloud & DevOps**
 
-<br/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-### 🏆 Bharatatma Puruskar
-<div align="center">
-  
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge&logoColor=white)](https://forms.bharatatmapuraskar.org/)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**Databases**
 
-</div>
-
-<div align="left" style="margin-left: 20px;">
-
-**🎯 Large-scale award application management system**
-
-• 📝 Two-stage form submission with complex validation  
-• 👨‍💼 Admin control panel for application management  
-• 📄 PDF & Excel export functionality with advanced filtering
-
-</div>
-
-<br/>
-
-### 🏭 Tempsens Production Management
-<div align="center">
-  
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge&logoColor=white)](https://tempsensfrontend.paperscissorstone.in/)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![SAP Integration](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-
-</div>
-
-<div align="left" style="margin-left: 20px;">
-
-**🎯 Production tracking system with SAP integration**
-
-• 📈 Real-time production dashboards  
-• ⚡ 30% improvement in delivery compliance  
-• 🔔 Automated overdue job alerts
-
-</div>
-
-<br/>
-
-### 📸 Photography Salon Tracker
-<div align="center">
-  
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge&logoColor=white)](https://salonapp.curatedlearn.in/)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</div>
-
-<div align="left" style="margin-left: 20px;">
-
-**🎯 Platform for photographers to track salon participation**
-
-• 🏆 Award tracking and portfolio management  
-• 📊 Personalized achievement dashboards  
-• ⚡ 50% reduction in manual tracking effort
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 Professional Journey
+## 💼 What I've Built
 
-### 🚀 Frontend Developer at Webanix Solutions
-**📅 Dec 2023 - Present | 📍 Udaipur, Rajasthan**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Paycor Smart Sourcing</h3>
+      <p>Enterprise AI-powered recruiting platform. Migrated 12+ React contexts to TanStack Query, implemented AI prompt-based features, resolved security vulnerabilities across microservices.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 <a href="http://115.241.153.220:10000/login">HRMS Management System</a></h3>
+      <p>Enterprise HRMS for 5,000+ employees — onboarding, leave, payroll, regularization. Automated workflows reduced HR operational load by 50%.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://fivesplash.gatemanagement.inscribepublications.com/home">CMS Platform</a></h3>
+      <p>Full-featured CMS with admin panel for dynamic content, SEO metadata, and media management. SSR with Next.js for optimal performance.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 <a href="https://forms.bharatatmapuraskar.org/">Award Management System</a></h3>
+      <p>Large-scale two-stage award application system with admin control panel, real-time status, PDF & Excel export, and advanced filtering.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<div style="margin-left: 20px;">
+---
 
-**✨ Key Achievements:**
-• 🎯 Built enterprise systems serving **5,000+ users**  
-• ⚡ Improved UI load times by **30%**  
-• 📉 Reduced manual processes by **40-60%**  
-• 🛠️ Delivered HRMS, Production Management, and Food Court Management systems
+## 📊 GitHub Stats
 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tushh-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a78bfa&icon_color=a78bfa"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushh-codes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=a78bfa"/>
 </div>
 
-<br/>
-
-### 🌱 Frontend Developer Intern at Webanix Solutions
-**📅 Oct 2023 - Dec 2023**
-
-<div style="margin-left: 20px;">
-
-• 🔧 Built reusable UI components  
-• 🚀 Improved delivery speed by **25%**  
-• 🔗 Integrated multiple APIs
-
-</div>
-
-<br/>
-
-### 💻 Web Developer Intern at Zeetron Networks
-**📅 Jul 2022 - Dec 2022 | 📍 Jaipur, Rajasthan**
-
-<div style="margin-left: 20px;">
-
-• 🌐 Full-stack web development  
-• ⚡ Enhanced application performance
-
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=tushh-codes&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
 </div>
 
 ---
 
 ## 🎓 Education
 
-### 🏫 Bikaner Technical University
-**B.Tech in Computer Science and Engineering**  
-📅 Aug 2019 - Jul 2023 | 🎯 **CGPA: 8.9**
-
-### 🏫 Siddharth Senior Secondary School
-📅 Jul 2014 - Aug 2018 | 📍 Pali, Rajasthan  
-🎯 **SSC: 88.80%** | **HSC: 89.50%**
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tushh-codes&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9&border_radius=12"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushh-codes&layout=compact&langs_count=8&theme=vue-dark&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&text_color=C9D1D9&border_radius=12"/>
-</div>
-
-
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-```
-🎯  2 Years of Frontend Development Experience
-🚀  5,000+ Users Served Across Multiple Platforms  
-⚡  30% Performance Improvements Achieved
-📊  50% Reduction in Manual Processes
-🏆  8.9 CGPA in Computer Science Engineering
-🌟  Multiple Enterprise-Level Applications Delivered
-```
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=12)](https://linkedin.com/in/tushar1201)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&border_radius=12)](https://github.com/tushh-codes)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&border_radius=12)](https://leetcode.com/tushh_r)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&border_radius=12)](https://auth.geeksforgeeks.org/user/_tushh_)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=12)](https://instagram.com/_tushh.r_)
-
-<br/>
-
-### 📧 Email: [tushar2643@gmail.com](mailto:tushar2643@gmail.com)
-### 📱 Phone: +91 8619972643
-
-</div>
+**B.Tech — Computer Science & Engineering**
+Bikaner Technical University · 2019–2023 · **CGPA: 8.9**
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
 </div>
 
 <div align="center">
   
-### 💡 *"Always trying to improve and build something amazing!"* 💡
+![Profile Views](https://komarev.com/ghpvc/?username=tushh-codes&label=Profile+Views&color=a78bfa&style=flat-square)
 
-![Profile Views](https://komarev.com/ghpvc/?username=tushh-codes&label=Profile%20Views&color=8B5CF6&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/tushh-codes?color=8B5CF6&style=for-the-badge&logo=github&label=Followers)](https://github.com/tushh-codes?tab=followers)
+*Building things that matter, one commit at a time.*
 
 </div>
